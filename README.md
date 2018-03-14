@@ -23,4 +23,4 @@ iPhone上常用加密码库测试
 	
 	test_rsa:测试的是rsa
 	
-	test_sha:测试的是sh
+	test_sha:测试的是sha
